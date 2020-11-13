@@ -1,4 +1,4 @@
-package section1;
+package section2;
 
 /*
  * InterfaceDefaultMethods를 구현한 클래스

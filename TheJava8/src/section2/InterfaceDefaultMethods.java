@@ -1,4 +1,4 @@
-package section1;
+package section2;
 
 /*
  * 인터페이스의 기본 메소드

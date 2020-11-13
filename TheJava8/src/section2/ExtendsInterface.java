@@ -1,4 +1,4 @@
-package section1;
+package section2;
 
 /*
  * InterfaceDefaultMethods를 상속받은 인터페이스
